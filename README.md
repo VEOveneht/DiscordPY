@@ -1,7 +1,7 @@
 # Discord-PY
 
 ## How to Install
-*Open CMD or Open Terminal via VSCODE
+* Open CMD or Open Terminal via VSCODE
 ```bach 
 pip install python3
 pip install discordpy
