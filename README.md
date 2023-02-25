@@ -1,7 +1,7 @@
 # Discord-PY
 * My WhatsApp [`Click Here`](https://wa.me/6283113810321?text=Assalamualaikum)
 ---------
-## How to Install
+## How to Install on WINDOWS
 * Open CMD or Open Terminal via VSCODE
 ```bach 
 pip install python3
