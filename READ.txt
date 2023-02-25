@@ -1,0 +1,11 @@
+PREFIX is "v"
+
+1. vmenu
+2. vhelp
+
+
+// Message Reply
+1. vhello
+
+// Bad Words
+1. anjing || Anjing || ANJING
