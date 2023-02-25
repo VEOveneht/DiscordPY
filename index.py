@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 PREFIX = 'v'
-TOKEN = 'MTA0OTcwMjA0NjE3OTI2NjU4MA.G-NCl8.15Ldt4x722eqJgvS6CjZm1ALyvVBhLNuSNginc'
+TOKEN = 'Your Token'
 KASAR = "JANGAN KASAR!"
 
 
@@ -78,7 +78,7 @@ async def on_message(message):
 @bot.event
 async def on_member_join(member):
     # ID channel tempat pesan selamat datang akan dikirim
-    channel = bot.get_channel(1078891935533629591)
+    channel = bot.get_channel(ID Channel Message)
     # pesan selamat datang yang akan dikirim
     welcome = await channel.send(f"Selamat datang di server kami! {member.mention}")
     await welcome.add_reaction('👋')
