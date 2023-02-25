@@ -1,7 +1,7 @@
- # Discord-PY
-\n
-\nHow to Install
-\n{pip install python3}
-\n{pip install discordpy}
-\n{pip install google}
-\n{pip install google-auth}
+# Discord-PY
+
+## How to Install
+pip install python3}
+pip install discordpy}
+pip install google
+pip install google-auth
